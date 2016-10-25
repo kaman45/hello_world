@@ -1,4 +1,5 @@
 # hello_world
 
 Kaman Diaby
-software engineer
+Software Engineer
+Able to code in many programming languages such java,ruby,c++, python.
